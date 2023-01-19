@@ -1,7 +1,8 @@
 Source: setuptools
 Section: python
 Priority: optional
-Maintainer: Matthias Klose <doko@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Matthias Klose <doko@debian.org>
 Build-Depends:
  debhelper (>= 11),
  dh-python,

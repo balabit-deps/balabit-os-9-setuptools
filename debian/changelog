@@ -1,3 +1,12 @@
+setuptools (59.6.0-1.2ubuntu0.22.04.1) jammy-security; urgency=medium
+
+  * SECURITY UPDATE: ReDOS in package_index.py
+    - debian/patches/CVE-2022-40897.patch: Limit the amount of
+      whitespace to search/backtrack in setuptools/package_index.py.
+    - CVE-2022-40897
+
+ -- David Fernandez Gonzalez <david.fernandezgonzalez@canonical.com>  Thu, 19 Jan 2023 16:00:36 +0100
+
 setuptools (59.6.0-1.2) unstable; urgency=medium
 
   * Non-maintainer upload.
