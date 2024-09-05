@@ -14,3 +14,4 @@ no-sphinx-jaraco-tidelift.diff
 sphinx-theme.diff
 no-sphinx-custom-icons.diff
 CVE-2022-40897.patch
+CVE-2024-6345.patch
