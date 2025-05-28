@@ -15,3 +15,5 @@ sphinx-theme.diff
 no-sphinx-custom-icons.diff
 CVE-2022-40897.patch
 CVE-2024-6345.patch
+CVE-2025-47273-pre1.patch
+CVE-2025-47273.patch
